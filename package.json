@@ -1,0 +1,27 @@
+{
+  "name": "handlebarstuto",
+  "version": "1.0.0",
+  "description": "handlebars basic tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaneKrios/handleTuto.git"
+  },
+  "keywords": [
+    "handlebards",
+    "javascript",
+    "js"
+  ],
+  "author": "Mario Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThaneKrios/handleTuto/issues"
+  },
+  "homepage": "https://github.com/ThaneKrios/handleTuto#readme",
+  "dependencies": {
+    "handlebars": "^4.0.11"
+  }
+}
